@@ -1,4 +1,4 @@
-# Hi there, I'm Miguel de pieri bet👋
+# Hi there, I'm Miguel 👋
 
 🎓 **1st-Year High School Student | Technical Course in Internet & Web Development**  
 💡 Passionate about technology, web development, and solving problems through code.
